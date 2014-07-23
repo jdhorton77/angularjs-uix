@@ -1,4 +1,5 @@
 angularjs-uix
 =============
 
-Angularjs ui extensions.
+Angularjs User Interface Xperience.
+http://angularjs-uix.com/
